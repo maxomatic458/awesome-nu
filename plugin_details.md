@@ -3,7 +3,7 @@
 |[nu-plugin-bexpand](https://forge.axfive.net/Taylor/nu-plugin-bexpand)|1.3.11300-dev|A brace expansion plugin compatible with Bash for nushell|⚠️0.113.1|⚠️0.113.1|
 |[nu_plugin_audio](https://github.com/SuaveIV/nu_plugin_audio)|0.2.11|A nushell plugin to make and play sounds|⚠️0.115.1|⚠️0.115.1|
 |[nu_plugin_audio_hook](https://github.com/FMotalleb/nu_plugin_audio_hook)|0.110.0|A nushell plugin to make and play sounds|⚠️0.110.0|⚠️0.110.0|
-|[nu_plugin_bigquery](https://github.com/galuszkak/nu_plugin_bigquery)|0.3.0|A Nushell plugin for querying Google BigQuery|⚠️0.114.1|⚠️0.114.1|
+|[nu_plugin_bigquery](https://github.com/galuszkak/nu_plugin_bigquery)|0.4.0|A Nushell plugin for querying Google BigQuery|⚠️0.115.1|⚠️0.115.1|
 |[nu_plugin_bin_reader](https://github.com/WindSoilder/nu_plugin_bin_reader)|0.0.0|A high level, general binary data reader.|⛔0.0|⛔0.0|
 |[nu_plugin_bio](https://github.com/Euphrasiologist/nu_plugin_bio)|0.104.0|Parse and manipulate common bioinformatic formats in nushell.|⚠️0.104.0|⚠️0.104.0|
 |[nu_plugin_bson](https://github.com/Kissaki/nu_plugin_bson)|26.1150.0|Nushell plugin for BSON format (Binary JSON)|⚠️0.115.0|⚠️0.115.0|
@@ -76,4 +76,4 @@
 |[nu_plugin_zstdsep](https://github.com/kazu/seekzstdsep)|0.2.2|A Nushell plugin for seekable, separator-aware zstd files(jsonl, csv, logfmt)|⚠️0.115.1|⚠️0.115.1|
 |issue in config file for (https://github.com/casedami/nu_plugin_todu/)|0.0||⛔0.0|⛔0.0|
 
-last update at `2026-09-02 19:36:24 +00:00`
+last update at `2026-09-09 07:43:12 +00:00`
