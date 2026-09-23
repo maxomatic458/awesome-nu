@@ -11,12 +11,12 @@
 |[nu_plugin_cassandra_query](https://github.com/devyn/nu_plugin_cassandra_query)|0.3.0|Query plugin for the Cassandra database for Nushell|⚠️0.101.0|⚠️0.101.0|
 |[nu_plugin_ccl](https://github.com/punund/nu_plugin_ccl)|0.1.0+0.111.0|A Nushell plugin for CCL format support|⚠️0.111.0|⚠️0.111.0|
 |[nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard)|0.110.0|A nushell plugin to copy text into clipboard or get text from it.|⚠️0.110.0|⚠️0.110.0|
-|[nu_plugin_compress](https://github.com/yybit/nu_plugin_compress)|0.2.10|A nushell plugin for compression and decompression, supporting zstd, gzip, bzip2, and xz.|⚠️0.112.1|⚠️0.112.1|
+|[nu_plugin_compress](https://github.com/yybit/nu_plugin_compress)|0.2.11|A nushell plugin for compression and decompression, supporting zstd, gzip, bzip2, and xz.|⚠️0.115.1|⚠️0.115.1|
 |[nu_plugin_dbus](https://github.com/devyn/nu_plugin_dbus)|0.14.0|Nushell plugin for communicating with D-Bus|⚠️0.101.0|⚠️0.101.0|
 |[nu_plugin_dcm](https://github.com/realcundo/nu_plugin_dcm)|0.8.0|A nushell plugin to parse Dicom files and DICOMweb records|⚠️0.108.0|⚠️0.108.0|
 |[nu_plugin_desktop_notifications](https://github.com/FMotalleb/nu_plugin_desktop_notifications)|0.115.0|A nushell plugin to send desktop notifications|⚠️0.115.0|⚠️0.115.0|
 |[nu_plugin_dialog](https://github.com/Trivernis/nu-plugin-dialog)|0.2.0|A nushell plugin for user interaction|⚠️0.86.1|⚠️0.86.1|
-|[nu_plugin_dns](https://github.com/dead10ck/nu_plugin_dns)|4.0.13-alpha.1|A DNS utility for nushell|⚠️0.115.1|⚠️0.115.1|
+|[nu_plugin_dns](https://github.com/dead10ck/nu_plugin_dns)|4.0.14-alpha.1|A DNS utility for nushell|⚠️0.115.1|⚠️0.115.1|
 |[nu_plugin_dpkgtable](https://github.com/pdenapo/nu_plugin_dpkgtable)|0.1.0||⚠️0.111.0|⚠️0.111.0|
 |[nu_plugin_emoji](https://github.com/fdncred/nu_plugin_emoji)|0.24.0|a nushell plugin called emoji|⚠️0.115.0|⚠️0.115.0|
 |[nu_plugin_endecode](https://github.com/KAAtheWiseGit/nugins/tree/trunk/endecode)|0.114.1|A plugin with various encoding schemes, from Crockford's base-32 to HTML entity escaping.|⚠️0.102.0|⚠️0.102.0|
@@ -59,7 +59,7 @@
 |[nu_plugin_qr_maker](https://github.com/FMotalleb/nu_plugin_qr_maker)|1.1.0|A nushell plugin to create qr code in terminal|⚠️0.94.0|⚠️0.94.0|
 |[nu_plugin_query](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query)|{workspace: true}|A Nushell plugin to query JSON, XML, and various web data|⛔0.0.0|⛔0.0.0|
 |[nu_plugin_regex](https://github.com/fdncred/nu_plugin_regex)|0.24.0|nu plugin to search text with regex|⚠️0.115.0|⚠️0.115.0|
-|[nu_plugin_rpm](https://github.com/yybit/nu_plugin_rpm)|0.3.6|A nushell plugin for reading rpm package.|⚠️0.108.0|⚠️0.108.0|
+|[nu_plugin_rpm](https://github.com/yybit/nu_plugin_rpm)|0.3.7|A nushell plugin for reading rpm package.|⚠️0.115.1|⚠️0.115.1|
 |[nu_plugin_semver](https://github.com/abusch/nu_plugin_semver)|0.11.17|A nushell plugin for dealing with SemVer versions|⚠️0.113.0|⚠️0.113.0|
 |[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.30.0|An `sk` command that can handle Nushell's structured data|⚠️0.115|⚠️0.115|
 |[nu_plugin_sled](https://github.com/mrxiaozhuox/nu_plugin_sled)|0.1.3|Manage sled db in nushell|⚠️0.113.1|⚠️0.113.1|
@@ -76,4 +76,4 @@
 |[nu_plugin_zstdsep](https://github.com/kazu/seekzstdsep)|0.2.2|A Nushell plugin for seekable, separator-aware zstd files(jsonl, csv, logfmt)|⚠️0.115.1|⚠️0.115.1|
 |issue in config file for (https://github.com/casedami/nu_plugin_todu/)|0.0||⛔0.0|⛔0.0|
 
-last update at `2026-09-16 08:08:52 +00:00`
+last update at `2026-09-23 08:09:00 +00:00`
